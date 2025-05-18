@@ -1,0 +1,27 @@
+Gallery: 
+<i class="fa-solid fa-image"></i>
+
+shortcuts:
+<i class="fa-solid fa-arrow-up-right-from-square"></i>
+
+exhibit:
+<i class="fa-solid fa-photo-film"></i>
+
+Events/ calender
+<i class="fa-solid fa-calendar-days"></i>
+
+Store
+<i class="fa-solid fa-store"></i>
+
+contact
+<i class="fa-solid fa-phone"></i>
+
+feedback
+<i class="fa-solid fa-comments"></i>
+
+
+//Social media
+<a href="#"><i class="fa-brands fa-facebook"></i></a>
+            <a href="#"><i class="fa-brands fa-twitter"></i></a>
+            <a href="#"><i class="fa-brands fa-instagram"></i></a>
+            <a href="#"><i class="fa-brands fa-youtube"></i></a>
